@@ -1,7 +1,193 @@
 fileFormatVersion: 2
 guid: 6ddd651b24383774daccb20872bb1216
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1575636815893139285
+    second: 1 layer 32 x 32 px platform dua warna_0
+  - first:
+      213: -386092411357268447
+    second: 1 layer 32 x 32 px platform dua warna_1
+  - first:
+      213: -6543286461018186862
+    second: 1 layer 32 x 32 px platform dua warna_2
+  - first:
+      213: 3869766039211639482
+    second: 1 layer 32 x 32 px platform dua warna_3
+  - first:
+      213: -7478253228617837970
+    second: 1 layer 32 x 32 px platform dua warna_4
+  - first:
+      213: -9074846013913473253
+    second: 1 layer 32 x 32 px platform dua warna_5
+  - first:
+      213: -5399483110233671989
+    second: 1 layer 32 x 32 px platform dua warna_6
+  - first:
+      213: -2223013320276988240
+    second: 1 layer 32 x 32 px platform dua warna_7
+  - first:
+      213: 7354305157998713338
+    second: 1 layer 32 x 32 px platform dua warna_8
+  - first:
+      213: 4251586382148611951
+    second: 1 layer 32 x 32 px platform dua warna_9
+  - first:
+      213: 7713379177778421133
+    second: 1 layer 32 x 32 px platform dua warna_10
+  - first:
+      213: -8384072439297287886
+    second: 1 layer 32 x 32 px platform dua warna_11
+  - first:
+      213: 5356371656782825550
+    second: 1 layer 32 x 32 px platform dua warna_12
+  - first:
+      213: 6035453078011374615
+    second: 1 layer 32 x 32 px platform dua warna_13
+  - first:
+      213: 3564154205023741755
+    second: 1 layer 32 x 32 px platform dua warna_14
+  - first:
+      213: -1312352539066431234
+    second: 1 layer 32 x 32 px platform dua warna_15
+  - first:
+      213: -347779504741741048
+    second: 1 layer 32 x 32 px platform dua warna_16
+  - first:
+      213: 9177533617848109436
+    second: 1 layer 32 x 32 px platform dua warna_17
+  - first:
+      213: 9119478310079256459
+    second: 1 layer 32 x 32 px platform dua warna_18
+  - first:
+      213: 3692988000722163857
+    second: 1 layer 32 x 32 px platform dua warna_19
+  - first:
+      213: 398138930492962778
+    second: 1 layer 32 x 32 px platform dua warna_20
+  - first:
+      213: -4274039157442455364
+    second: 1 layer 32 x 32 px platform dua warna_21
+  - first:
+      213: 8577709423188141354
+    second: 1 layer 32 x 32 px platform dua warna_22
+  - first:
+      213: 1296347727786407935
+    second: 1 layer 32 x 32 px platform dua warna_23
+  - first:
+      213: 2329944204265618982
+    second: 1 layer 32 x 32 px platform dua warna_24
+  - first:
+      213: 6665719888689513437
+    second: 1 layer 32 x 32 px platform dua warna_25
+  - first:
+      213: -4600908181128334407
+    second: 1 layer 32 x 32 px platform dua warna_26
+  - first:
+      213: 678904249335863324
+    second: 1 layer 32 x 32 px platform dua warna_27
+  - first:
+      213: 3236846822242425617
+    second: 1 layer 32 x 32 px platform dua warna_28
+  - first:
+      213: 7394050650415867803
+    second: 1 layer 32 x 32 px platform dua warna_29
+  - first:
+      213: -4564958897239638297
+    second: 1 layer 32 x 32 px platform dua warna_30
+  - first:
+      213: 5279643875421313016
+    second: 1 layer 32 x 32 px platform dua warna_31
+  - first:
+      213: -4838041945301075428
+    second: 1 layer 32 x 32 px platform dua warna_32
+  - first:
+      213: 6479654520099967497
+    second: 1 layer 32 x 32 px platform dua warna_33
+  - first:
+      213: -8131276960030082622
+    second: 1 layer 32 x 32 px platform dua warna_34
+  - first:
+      213: 5873075073052851039
+    second: 1 layer 32 x 32 px platform dua warna_35
+  - first:
+      213: -4629922704135241721
+    second: 1 layer 32 x 32 px platform dua warna_36
+  - first:
+      213: 1337396421837125460
+    second: 1 layer 32 x 32 px platform dua warna_37
+  - first:
+      213: -1692535432540174056
+    second: 1 layer 32 x 32 px platform dua warna_38
+  - first:
+      213: 7860764532216569532
+    second: 1 layer 32 x 32 px platform dua warna_39
+  - first:
+      213: -4477239465656613463
+    second: 1 layer 32 x 32 px platform dua warna_40
+  - first:
+      213: -5364920471383371447
+    second: 1 layer 32 x 32 px platform dua warna_41
+  - first:
+      213: 1307921637171264150
+    second: 1 layer 32 x 32 px platform dua warna_42
+  - first:
+      213: 474560796281157792
+    second: 1 layer 32 x 32 px platform dua warna_43
+  - first:
+      213: -1286836497860116419
+    second: 1 layer 32 x 32 px platform dua warna_44
+  - first:
+      213: -6149970577952536110
+    second: 1 layer 32 x 32 px platform dua warna_45
+  - first:
+      213: -1643071523908963923
+    second: 1 layer 32 x 32 px platform dua warna_46
+  - first:
+      213: 6603707556844583659
+    second: 1 layer 32 x 32 px platform dua warna_47
+  - first:
+      213: 1115178504408772091
+    second: 1 layer 32 x 32 px platform dua warna_48
+  - first:
+      213: 2464946864590937271
+    second: 1 layer 32 x 32 px platform dua warna_49
+  - first:
+      213: -761721675179533107
+    second: 1 layer 32 x 32 px platform dua warna_50
+  - first:
+      213: 1367907251795511528
+    second: 1 layer 32 x 32 px platform dua warna_51
+  - first:
+      213: -1990914673487933323
+    second: 1 layer 32 x 32 px platform dua warna_52
+  - first:
+      213: 1753543044317406604
+    second: 1 layer 32 x 32 px platform dua warna_53
+  - first:
+      213: -5716286278575812646
+    second: 1 layer 32 x 32 px platform dua warna_54
+  - first:
+      213: -1734231260660263988
+    second: 1 layer 32 x 32 px platform dua warna_55
+  - first:
+      213: -6303319997569879483
+    second: 1 layer 32 x 32 px platform dua warna_56
+  - first:
+      213: 8726318742469410780
+    second: 1 layer 32 x 32 px platform dua warna_57
+  - first:
+      213: -5734816737122609388
+    second: 1 layer 32 x 32 px platform dua warna_58
+  - first:
+      213: -7259982546449310136
+    second: 1 layer 32 x 32 px platform dua warna_59
+  - first:
+      213: -676812487983924629
+    second: 1 layer 32 x 32 px platform dua warna_60
+  - first:
+      213: -7429233160566230569
+    second: 1 layer 32 x 32 px platform dua warna_61
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +227,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +261,1347 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f86520659cdd510800000000000000
+      internalID: 1575636815893139285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 324
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126739a5ff254aaf0800000000000000
+      internalID: -386092411357268447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 283
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b536ba1a39135a0800000000000000
+      internalID: -6543286461018186862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 283
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28413b5bb24b530800000000000000
+      internalID: 3869766039211639482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 283
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62d0df5f48e73890800000000000000
+      internalID: -7478253228617837970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 283
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f515581abaf0280800000000000000
+      internalID: -9074846013913473253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6fccb08be2115b0800000000000000
+      internalID: -5399483110233671989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 308
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beade9c9254621e0800000000000000
+      internalID: -2223013320276988240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 309
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af91650939dbf0660800000000000000
+      internalID: 7354305157998713338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 309
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2bd7e94ba00b30800000000000000
+      internalID: 4251586382148611951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 293
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9065be7d6b0b60800000000000000
+      internalID: 7713379177778421133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 292
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239da84898ac5ab80800000000000000
+      internalID: -8384072439297287886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 292
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c28f74a7a55a40800000000000000
+      internalID: 5356371656782825550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 277
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce765e89c32c350800000000000000
+      internalID: 6035453078011374615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 230
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37a723ad5b667130800000000000000
+      internalID: 3564154205023741755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 230
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef80dd0a15699cde0800000000000000
+      internalID: -1312352539066431234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e05bf02607c2bf0800000000000000
+      internalID: -347779504741741048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ca0663362d5f70800000000000000
+      internalID: 9177533617848109436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_18
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 250
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b875729b435ee8e70800000000000000
+      internalID: 9119478310079256459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 250
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19813d63501204330800000000000000
+      internalID: 3692988000722163857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 251
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad779437f39768500800000000000000
+      internalID: 398138930492962778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 251
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb85888f7009fa4c0800000000000000
+      internalID: -4274039157442455364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 251
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2566a316452a0770800000000000000
+      internalID: 8577709423188141354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 251
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7f71cd36d8df110800000000000000
+      internalID: 1296347727786407935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 220
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7bb1c8ef955020800000000000000
+      internalID: 2329944204265618982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 220
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd348991ce4618c50800000000000000
+      internalID: 6665719888689513437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 220
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b338abc26a4620c0800000000000000
+      internalID: -4600908181128334407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 219
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18da2a51d3fb6900800000000000000
+      internalID: 678904249335863324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 185
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b9c1809079bec20800000000000000
+      internalID: 3236846822242425617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 185
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a84524e1fc9660800000000000000
+      internalID: 7394050650415867803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb5c3b11206a0c0800000000000000
+      internalID: -4564958897239638297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 185
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7dd07c120154940800000000000000
+      internalID: 5279643875421313016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 174
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab3e9db72dbdcb0800000000000000
+      internalID: -4838041945301075428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 174
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90210d1947b5ce950800000000000000
+      internalID: 6479654520099967497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 135
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b61bafa6e72f80800000000000000
+      internalID: -8131276960030082622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 135
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b348c79aa518150800000000000000
+      internalID: 5873075073052851039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c08ab4d53fbfb0800000000000000
+      internalID: -4629922704135241721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 140
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fa77b5f26f8210800000000000000
+      internalID: 1337396421837125460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194ea5ddf7e288e0800000000000000
+      internalID: -1692535432540174056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 138
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe12c5a1bb071d60800000000000000
+      internalID: 7860764532216569532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a58d2b6d66add1c0800000000000000
+      internalID: -4477239465656613463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 82
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94119fe7149fb85b0800000000000000
+      internalID: -5364920471383371447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af3a1accba62210800000000000000
+      internalID: 1307921637171264150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 82
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a83aa6a78af59600800000000000000
+      internalID: 474560796281157792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 84
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d304a0de50d342ee0800000000000000
+      internalID: -1286836497860116419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 83
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d90902e75ae6aaa0800000000000000
+      internalID: -6149970577952536110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 82
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b8d48723a239e0800000000000000
+      internalID: -1643071523908963923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 82
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab846f80515ab50800000000000000
+      internalID: 6603707556844583659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 44
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdaf68f0f8e97f00800000000000000
+      internalID: 1115178504408772091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 43
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd72e0d10453220800000000000000
+      internalID: 2464946864590937271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 44
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc55351c22dd65f0800000000000000
+      internalID: -761721675179533107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 46
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c3f4e568cbf210800000000000000
+      internalID: 1367907251795511528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 46
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57093ac17a9de54e0800000000000000
+      internalID: -1990914673487933323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 39
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8565eeab16d55810800000000000000
+      internalID: 1753543044317406604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_54
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 39
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf8c037aebaba0b0800000000000000
+      internalID: -5716286278575812646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc397f55bd5cee7e0800000000000000
+      internalID: -1734231260660263988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423b3fcbdb1688a0800000000000000
+      internalID: -6303319997569879483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff8b989ac1a1970800000000000000
+      internalID: 8726318742469410780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41797dbdf86d960b0800000000000000
+      internalID: -5734816737122609388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_59
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e5a5bc65c5f3b90800000000000000
+      internalID: -7259982546449310136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_60
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7b2ac0aa7b96f0800000000000000
+      internalID: -676812487983924629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer 32 x 32 px platform dua warna_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1b5ee5dcf06e890800000000000000
+      internalID: -7429233160566230569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

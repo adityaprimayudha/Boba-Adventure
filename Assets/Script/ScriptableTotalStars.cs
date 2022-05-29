@@ -6,9 +6,5 @@ using UnityEngine;
 
 public class ScriptableTotalStars : ScriptableObject
 {
-    public int[] total;
-
-    private void OnEnable(){
-        
-    }
+    public List<int> total = new List<int>();
 }

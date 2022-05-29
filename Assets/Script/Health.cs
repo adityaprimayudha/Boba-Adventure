@@ -10,7 +10,7 @@ public class Health : MonoBehaviour
     void Awake()
     {
         currhealth = startingHealth;
-        Debug.Log(""+currhealth);
+        //Debug.Log(""+currhealth);
     }
 
     // Update is called once per frame

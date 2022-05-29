@@ -1,7 +1,187 @@
 fileFormatVersion: 2
 guid: 9d4eb3e639941c440add8aede1a7df1e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8258778945795594080
+    second: 1 layer FHD platform dua warna_0
+  - first:
+      213: -6378726485272456722
+    second: 1 layer FHD platform dua warna_1
+  - first:
+      213: 1165072781631778572
+    second: 1 layer FHD platform dua warna_2
+  - first:
+      213: 426356838022189034
+    second: 1 layer FHD platform dua warna_3
+  - first:
+      213: -4533795769358993039
+    second: 1 layer FHD platform dua warna_4
+  - first:
+      213: 3137393517061193880
+    second: 1 layer FHD platform dua warna_5
+  - first:
+      213: 9095261400416359224
+    second: 1 layer FHD platform dua warna_6
+  - first:
+      213: 2526296462191643076
+    second: 1 layer FHD platform dua warna_7
+  - first:
+      213: -1782164322214254918
+    second: 1 layer FHD platform dua warna_8
+  - first:
+      213: 5838558938681133407
+    second: 1 layer FHD platform dua warna_9
+  - first:
+      213: 3524124137445444314
+    second: 1 layer FHD platform dua warna_10
+  - first:
+      213: 2464481245889072995
+    second: 1 layer FHD platform dua warna_11
+  - first:
+      213: -87609454554003849
+    second: 1 layer FHD platform dua warna_12
+  - first:
+      213: 5321110212783559123
+    second: 1 layer FHD platform dua warna_13
+  - first:
+      213: -4101968974035806695
+    second: 1 layer FHD platform dua warna_14
+  - first:
+      213: 8170659806148754889
+    second: 1 layer FHD platform dua warna_15
+  - first:
+      213: -7532470597657411585
+    second: 1 layer FHD platform dua warna_16
+  - first:
+      213: 7845584372443878658
+    second: 1 layer FHD platform dua warna_17
+  - first:
+      213: 1816213347931346491
+    second: 1 layer FHD platform dua warna_18
+  - first:
+      213: 2670011009473538815
+    second: 1 layer FHD platform dua warna_19
+  - first:
+      213: 2955489289742425401
+    second: 1 layer FHD platform dua warna_20
+  - first:
+      213: -1896426907111798335
+    second: 1 layer FHD platform dua warna_21
+  - first:
+      213: 2149876021499789219
+    second: 1 layer FHD platform dua warna_22
+  - first:
+      213: -7850058215261967094
+    second: 1 layer FHD platform dua warna_23
+  - first:
+      213: -9018428927368967359
+    second: 1 layer FHD platform dua warna_24
+  - first:
+      213: 1818638809407328195
+    second: 1 layer FHD platform dua warna_25
+  - first:
+      213: -2048758463195396392
+    second: 1 layer FHD platform dua warna_26
+  - first:
+      213: 7869429842529969946
+    second: 1 layer FHD platform dua warna_27
+  - first:
+      213: 8207727226056236906
+    second: 1 layer FHD platform dua warna_28
+  - first:
+      213: -3079605922414914852
+    second: 1 layer FHD platform dua warna_29
+  - first:
+      213: -2151146878752902689
+    second: 1 layer FHD platform dua warna_30
+  - first:
+      213: -7025230808255281693
+    second: 1 layer FHD platform dua warna_31
+  - first:
+      213: -6485051818323286965
+    second: 1 layer FHD platform dua warna_32
+  - first:
+      213: -3570869926877096508
+    second: 1 layer FHD platform dua warna_33
+  - first:
+      213: 5430472294754760853
+    second: 1 layer FHD platform dua warna_34
+  - first:
+      213: -855805934619878901
+    second: 1 layer FHD platform dua warna_35
+  - first:
+      213: -4004715991088072528
+    second: 1 layer FHD platform dua warna_36
+  - first:
+      213: -9010366390414745899
+    second: 1 layer FHD platform dua warna_37
+  - first:
+      213: -5514459593425837313
+    second: 1 layer FHD platform dua warna_38
+  - first:
+      213: -4657357098157229070
+    second: 1 layer FHD platform dua warna_39
+  - first:
+      213: -3625515829323834643
+    second: 1 layer FHD platform dua warna_40
+  - first:
+      213: 582697450230495547
+    second: 1 layer FHD platform dua warna_41
+  - first:
+      213: -1516814975517880810
+    second: 1 layer FHD platform dua warna_42
+  - first:
+      213: -7513957834118346536
+    second: 1 layer FHD platform dua warna_43
+  - first:
+      213: 8042246600612982403
+    second: 1 layer FHD platform dua warna_44
+  - first:
+      213: 3721294850750013204
+    second: 1 layer FHD platform dua warna_45
+  - first:
+      213: 9162953172551965771
+    second: 1 layer FHD platform dua warna_46
+  - first:
+      213: -7014818023665011641
+    second: 1 layer FHD platform dua warna_47
+  - first:
+      213: -8716517717243560146
+    second: 1 layer FHD platform dua warna_48
+  - first:
+      213: -833983709238013516
+    second: 1 layer FHD platform dua warna_49
+  - first:
+      213: -2596868935551866328
+    second: 1 layer FHD platform dua warna_50
+  - first:
+      213: -8824442595472114669
+    second: 1 layer FHD platform dua warna_51
+  - first:
+      213: 5390220306657626310
+    second: 1 layer FHD platform dua warna_52
+  - first:
+      213: -5976515302482558545
+    second: 1 layer FHD platform dua warna_53
+  - first:
+      213: -1091871037478717302
+    second: 1 layer FHD platform dua warna_54
+  - first:
+      213: -8389141970345980928
+    second: 1 layer FHD platform dua warna_55
+  - first:
+      213: 4849151747239281914
+    second: 1 layer FHD platform dua warna_56
+  - first:
+      213: 4729667806190016417
+    second: 1 layer FHD platform dua warna_57
+  - first:
+      213: -1045952950183284605
+    second: 1 layer FHD platform dua warna_58
+  - first:
+      213: -9012300373445067954
+    second: 1 layer FHD platform dua warna_59
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +221,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 150
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +255,1305 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 995
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e0614e4ce26d80800000000000000
+      internalID: -8258778945795594080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 922
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee195fdbe063a77a0800000000000000
+      internalID: -6378726485272456722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 823
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f63a6a58b2b2010800000000000000
+      internalID: 1165072781631778572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 824
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0fd50949bae500800000000000000
+      internalID: 426356838022189034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 842
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1793033d4c8b411c0800000000000000
+      internalID: -4533795769358993039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_5
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 842
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890cb09f7c24a8b20800000000000000
+      internalID: 3137393517061193880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_6
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 831
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833932f0e0cd83e70800000000000000
+      internalID: 9095261400416359224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 831
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9424a5f353f0320800000000000000
+      internalID: 2526296462191643076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_8
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 829
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66b03cdfa7447e0800000000000000
+      internalID: -1782164322214254918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_9
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 827
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594544bb6ab60150800000000000000
+      internalID: 5838558938681133407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 674
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac0dc3b3438e030800000000000000
+      internalID: 3524124137445444314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f84d0c2a8933220800000000000000
+      internalID: 2464481245889072995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 672
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c75e4aafb8cef0800000000000000
+      internalID: -87609454554003849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_13
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 674
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1daabcb8168d940800000000000000
+      internalID: 5321110212783559123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_14
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 664
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161ce683f0e217c0800000000000000
+      internalID: -4101968974035806695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_15
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdfe0ebdc3046170800000000000000
+      internalID: 8170659806148754889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_16
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff3e8176e9477790800000000000000
+      internalID: -7532470597657411585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_17
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 436
+        width: 62
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059fd64b6d11ec60800000000000000
+      internalID: 7845584372443878658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_18
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 436
+        width: 62
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3655cfca6c743910800000000000000
+      internalID: 1816213347931346491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_19
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 436
+        width: 62
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6d06edd8cd0520800000000000000
+      internalID: 2670011009473538815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_20
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 436
+        width: 63
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d9194a9d1040920800000000000000
+      internalID: 2955489289742425401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9cb1396c98ea5e0800000000000000
+      internalID: -1896426907111798335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 511
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afff9cd9d4e5dd10800000000000000
+      internalID: 2149876021499789219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d6c2505adfe0390800000000000000
+      internalID: -7850058215261967094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_24
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bc0181caa18d280800000000000000
+      internalID: -9018428927368967359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_25
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 504
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf86719c5a1d3910800000000000000
+      internalID: 1818638809407328195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_26
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 504
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c9a258095193e0800000000000000
+      internalID: -2048758463195396392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_27
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 504
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a176bdc6fb4d53d60800000000000000
+      internalID: 7869429842529969946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f526afc64b7e170800000000000000
+      internalID: 8207727226056236906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21542eaba0345d0800000000000000
+      internalID: -3079605922414914852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13e30af479522e0800000000000000
+      internalID: -2151146878752902689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_31
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 352
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e540d81dcd518e90800000000000000
+      internalID: -7025230808255281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_32
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 352
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e6d20bb77006a0800000000000000
+      internalID: -6485051818323286965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_33
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 361
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c59d5588b8b17ec0800000000000000
+      internalID: -3570869926877096508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_34
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 361
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598357bb7c9ec5b40800000000000000
+      internalID: 5430472294754760853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_35
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 361
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9f4669019f14f0800000000000000
+      internalID: -855805934619878901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b87ed426046c68c0800000000000000
+      internalID: -4004715991088072528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ded533c18fb4f280800000000000000
+      internalID: -9010366390414745899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2ab957734b873b0800000000000000
+      internalID: -5514459593425837313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 260
+        width: 296
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb13c156ebd5fb0800000000000000
+      internalID: -4657357098157229070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_40
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 166
+        width: 161
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead891ef849fadc0800000000000000
+      internalID: -3625515829323834643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_41
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 178
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b3846e38261800800000000000000
+      internalID: 582697450230495547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_42
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 182
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e8342f0d033fae0800000000000000
+      internalID: -1516814975517880810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_43
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 182
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8cc18192f09b790800000000000000
+      internalID: -7513957834118346536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_44
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 171
+        width: 296
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e21a17caccb9f60800000000000000
+      internalID: 8042246600612982403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_45
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 214
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd17353f1b4a330800000000000000
+      internalID: 3721294850750013204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_46
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 216
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c9f7fec59592f70800000000000000
+      internalID: 9162953172551965771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_47
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 178
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744707f6c2c56ae90800000000000000
+      internalID: -7014818023665011641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_48
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 178
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7c497155b80780800000000000000
+      internalID: -8716517717243560146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1d76e2c381d64f0800000000000000
+      internalID: -833983709238013516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a2f20467116fbd0800000000000000
+      internalID: -2596868935551866328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_51
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 4
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cfe0c9638498580800000000000000
+      internalID: -8824442595472114669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_52
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 82
+        width: 296
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cc6f6fc8edca40800000000000000
+      internalID: 5390220306657626310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_53
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 37
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa147d05ff62f0da0800000000000000
+      internalID: -5976515302482558545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_54
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 37
+        width: 161
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883b8e8315e8d0f0800000000000000
+      internalID: -1091871037478717302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_55
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 27
+        width: 59
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c053753d7c39b80800000000000000
+      internalID: -8389141970345980928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_56
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 31
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4892c72d5ab4340800000000000000
+      internalID: 4849151747239281914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_57
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 34
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a79e859fc723a140800000000000000
+      internalID: 4729667806190016417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_58
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 34
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380bd8065570c71f0800000000000000
+      internalID: -1045952950183284605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 layer FHD platform dua warna_59
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 4
+        width: 296
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bbfaf3f80ede280800000000000000
+      internalID: -9012300373445067954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
