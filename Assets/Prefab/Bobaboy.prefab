@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7605529912753772692}
   - component: {fileID: 7605529912753772689}
   - component: {fileID: 7605529912753772693}
+  - component: {fileID: 7379622734073311936}
   m_Layer: 0
   m_Name: Bobaboy
   m_TagString: Player
@@ -102,7 +103,7 @@ Rigidbody2D:
   m_LinearDrag: 1
   m_AngularDrag: 0.05
   m_GravityScale: 3
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 84c042f74ade8c949a2f95c9a2b17d47, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -119,7 +120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a875d7ed402f26348bfb912df225eaa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 5
+  playerSpeed: 7
 --- !u!70 &7605529912753772689
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -149,3 +150,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingHealth: 10
+--- !u!95 &7379622734073311936
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7605529912753772691}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b0df4aaad9747f44d8145e7aa68e5644, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

@@ -7,11 +7,13 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     public float playerSpeed;
     private bool isGrounded;
+    private Animator anim;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -36,15 +38,19 @@ public class PlayerMovement : MonoBehaviour
                 transform.localScale = new Vector3(local,local*-1,local*-1);
             }
         }
+        anim.SetBool("isWalking",horizontalInput!=0);
         if(Input.GetButtonDown("Jump") && isGrounded){
-            rb.velocity = new Vector2(rb.velocity.x,playerSpeed)*2;
+            rb.velocity = new Vector2(rb.velocity.x,playerSpeed)*3;
+            anim.SetTrigger("Jump");
         }
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
     }
     void OnCollisionEnter2D(Collision2D col){
         isGrounded = true;
+        Debug.Log("Grounded");
     }
     void OnCollisionExit2D(Collision2D col){
         isGrounded = false;
+        Debug.Log("notGrounded");
     }
 }
