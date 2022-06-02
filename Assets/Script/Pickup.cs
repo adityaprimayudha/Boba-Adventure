@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Pickup : MonoBehaviour
 {
     public ScriptableInteger con;
+    public Text text;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,7 @@ public class Pickup : MonoBehaviour
         if(col.gameObject.tag == "Player"){
             con.value += 1;
             gameObject.SetActive(false);
+            text.text = con.value.ToString();
         }
     }
 }

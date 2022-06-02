@@ -8,7 +8,7 @@ public class Goal : MonoBehaviour
     public ScriptableInteger scriptValue;
     public GameObject[] stars;
     public bool reset;
-    private int nilai;
+    private int nilai=1;
     // Start is called before the first frame update
 
     void Start()
@@ -16,7 +16,7 @@ public class Goal : MonoBehaviour
         if(reset){
             PlayerPrefs.DeleteKey("Level"+1);
         }
-        nilai = LevelSelection.instance.level;
+        //nilai = LevelSelection.instance.level;
     }
 
     // Update is called once per frame

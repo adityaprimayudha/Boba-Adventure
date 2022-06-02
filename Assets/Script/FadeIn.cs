@@ -12,6 +12,7 @@ public class FadeIn : MonoBehaviour
 
     void Awake()
     {
+        Time.timeScale = 1;
         TargetImage.rectTransform.localScale = new Vector2(Screen.width, Screen.height);
     }
 
