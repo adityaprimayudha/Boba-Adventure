@@ -47,10 +47,10 @@ public class PlayerMovement : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D col){
         isGrounded = true;
-        Debug.Log("Grounded");
+        //Debug.Log("Grounded");
     }
     void OnCollisionExit2D(Collision2D col){
         isGrounded = false;
-        Debug.Log("notGrounded");
+        //Debug.Log("notGrounded");
     }
 }
