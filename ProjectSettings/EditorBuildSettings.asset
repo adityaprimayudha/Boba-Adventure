@@ -21,9 +21,6 @@ EditorBuildSettings:
     path: Assets/Scenes/LevelEasy.unity
     guid: 6f4fea45d60fb7a458a6cc4de5ebafaf
   - enabled: 1
-    path: Assets/Scenes/Splashscreen 3.unity
-    guid: 61724c452f654974b80af3f2a3e8aa5e
-  - enabled: 1
-    path: Assets/Scenes/Gameplay.unity
-    guid: 63338b7e06bcb294e91af7d891ca8bf2
+    path: Assets/Scenes/LevelMedium.unity
+    guid: 6f369370316099b49a861ab9347f1cc1
   m_configObjects: {}

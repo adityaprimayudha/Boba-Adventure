@@ -434,9 +434,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 25
-    m_FontStyle: 0
+    m_Font: {fileID: 12800000, guid: 8e5e02eee567b494bb18a93cb352f7a5, type: 3}
+    m_FontSize: 18
+    m_FontStyle: 2
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 80
@@ -747,7 +747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67506e2d29761ae4ab5b165936d40a60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: LevelEasy
+  sceneName: LevelSelection
   delay: 5
   click: 1
   text: {fileID: 941077089}

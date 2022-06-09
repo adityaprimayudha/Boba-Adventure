@@ -8,15 +8,17 @@ public class Goal : MonoBehaviour
     public ScriptableInteger scriptValue;
     public GameObject[] stars;
     public bool reset;
-    private int nilai=1;
+    private int nilai;
+    public ScriptableInteger curlevel;
     // Start is called before the first frame update
 
     void Start()
     {
+        nilai = curlevel.value;
+        Debug.Log(""+nilai);
         if(reset){
-            PlayerPrefs.DeleteKey("Level"+1);
+            PlayerPrefs.DeleteAll();
         }
-        //nilai = LevelSelection.instance.level;
     }
 
     // Update is called once per frame
@@ -32,7 +34,8 @@ public class Goal : MonoBehaviour
                 stars[i].SetActive(true);
             }
             PlayerPrefs.SetInt("Level"+nilai, scriptValue.value);
-            Debug.Log(""+scriptValue.value);
+            PlayerPrefs.SetString("Clear"+nilai, "Cleared");
+            Debug.Log(""+PlayerPrefs.GetInt("Level"+nilai));
         }
     }
 }
