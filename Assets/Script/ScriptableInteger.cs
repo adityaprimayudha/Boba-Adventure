@@ -14,4 +14,7 @@ public class ScriptableInteger : ScriptableObject
             value = defaultValue;
         }
     }
+    public void doReset(){
+        value = defaultValue;
+    }
 }
