@@ -7,6 +7,7 @@ public class ButtonMechanism : MonoBehaviour
     public DoorMechanism doorMechanism;
     public bool isExitDoor;
     private Animator anim;
+    public bool reset;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +21,12 @@ public class ButtonMechanism : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D col){
         anim.SetBool("Pressed",true);
-        doorMechanism.OpenDoor();
+        if(reset){
+            doorMechanism.ExitDoor();
+        }
+        else{
+            doorMechanism.OpenDoor();
+        }
     }
     private void OnCollisionExit2D(Collision2D col){
         if(isExitDoor){

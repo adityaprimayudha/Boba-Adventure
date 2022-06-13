@@ -6,6 +6,7 @@ public class Health : MonoBehaviour
 {
     [SerializeField] private float startingHealth;
     public float currhealth { get; private set; }
+    public GameObject losingPanel;
 
     void Awake()
     {
@@ -31,10 +32,9 @@ public class Health : MonoBehaviour
         else{
             GetComponent<PlayerMovement>().enabled = false;
             gameObject.SetActive(false);
+            losingPanel.SetActive(true);
+            Time.timeScale = 0;
+            SoundManager.instance.Dead();
         }
-    }
-
-    public void AddHealth(float value){
-        currhealth = Mathf.Clamp(currhealth + value,0,startingHealth);
     }
 }
