@@ -33,8 +33,11 @@ public class Goal : MonoBehaviour
             for(int i = 0; i<scriptValue.value; i++){
                 stars[i].SetActive(true);
             }
-            PlayerPrefs.SetInt("Level"+nilai, scriptValue.value);
+            if(PlayerPrefs.GetInt("Level"+nilai) < scriptValue.value){
+                PlayerPrefs.SetInt("Level"+nilai, scriptValue.value);
+            }
             PlayerPrefs.SetString("Clear"+nilai, "Cleared");
+            SoundManager.instance.Goal();
             Debug.Log(""+PlayerPrefs.GetInt("Level"+nilai));
         }
     }

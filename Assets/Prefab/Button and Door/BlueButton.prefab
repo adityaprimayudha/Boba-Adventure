@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7978890942311275586}
   - component: {fileID: 7978890942311275597}
   - component: {fileID: 5627293840644907981}
+  - component: {fileID: 2149956074130380258}
   m_Layer: 0
   m_Name: BlueButton
   m_TagString: Untagged
@@ -124,3 +125,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.29667494, y: 0.092059}
   m_EdgeRadius: 0
+--- !u!95 &2149956074130380258
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7978890942311275599}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7dded2e2f1540994db1c28e402b9b169, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

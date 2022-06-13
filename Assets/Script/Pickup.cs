@@ -23,6 +23,7 @@ public class Pickup : MonoBehaviour
             con.value += 1;
             gameObject.SetActive(false);
             text.text = con.value.ToString();
+            SoundManager.instance.GetItem();
         }
     }
 }
