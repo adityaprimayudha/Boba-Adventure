@@ -2480,7 +2480,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 954326271
-  m_SortingLayer: 5
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.03333336, y: 0.03333336, z: 0}
@@ -3758,9 +3758,21 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1197754348172735238, guid: 8070f485a67c1d041925279e44840fad, type: 3}
+      propertyPath: XPrefabP2
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1197754348172735238, guid: 8070f485a67c1d041925279e44840fad, type: 3}
+      propertyPath: YPrefabP2
+      value: -2.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1197754348172735238, guid: 8070f485a67c1d041925279e44840fad, type: 3}
       propertyPath: pausePanel
       value: 
       objectReference: {fileID: 939547673}
+    - target: {fileID: 1197754348172735238, guid: 8070f485a67c1d041925279e44840fad, type: 3}
+      propertyPath: Player2Prefab
+      value: 
+      objectReference: {fileID: 2575522764260020845, guid: d245d6b6cee4d0240b990ab1fc2ac6bc, type: 3}
     - target: {fileID: 1197754348172735239, guid: 8070f485a67c1d041925279e44840fad, type: 3}
       propertyPath: m_Name
       value: GameManager
