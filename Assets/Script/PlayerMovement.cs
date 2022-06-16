@@ -7,6 +7,8 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     public float playerSpeed;
     private bool isGrounded;
+    public string axis = "Horizontal";
+    public string Jumpaxis = "Jump";
     private Animator anim;
 
     // Start is called before the first frame update
@@ -19,7 +21,12 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float horizontalInput = Input.GetAxis("Horizontal");
+         Physics2D.IgnoreLayerCollision(6, 7);
+         if (axis == "Horizontal2" && GameData.instance.isSinglePlayer)
+        {
+            return;
+        }
+        float horizontalInput = Input.GetAxis(axis);
         float local = transform.localScale.x;
         rb.velocity = new Vector2(playerSpeed*horizontalInput,rb.velocity.y);
         if(horizontalInput > 0.01f){
@@ -38,10 +45,23 @@ public class PlayerMovement : MonoBehaviour
                 transform.localScale = new Vector3(local,local*-1,local*-1);
             }
         }
+        if (axis == "Horizontal"){
         anim.SetBool("isWalking",horizontalInput!=0);
+        }
+        if (axis == "Horizontal2"){
+        anim.SetBool("isWalkingGirl",horizontalInput!=0);
+        }
+         if (Jumpaxis == "Jump" ){
         if(Input.GetButtonDown("Jump") && isGrounded){
             rb.velocity = new Vector2(rb.velocity.x,playerSpeed)*3;
             anim.SetTrigger("Jump");
+        }
+         }
+        if (Jumpaxis == "Jump2" ){
+        if(Input.GetButtonDown("Jump2") && isGrounded){
+            rb.velocity = new Vector2(rb.velocity.x,playerSpeed)*3;
+            anim.SetTrigger("jumpGirl");
+        }
         }
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
     }

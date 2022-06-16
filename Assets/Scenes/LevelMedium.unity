@@ -2427,6 +2427,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_Material: {fileID: 0}
   m_Color: {r: 0, g: 0, b: 0, a: 0.6666667}
   m_RaycastTarget: 1
@@ -2447,6 +2448,15 @@ MonoBehaviour:
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &1595931342
 CanvasRenderer:
+=======
+  condiment: {fileID: 11400000, guid: 8a60a115ce6c2e047b151edee9adc1c1, type: 2}
+  pausePanel: {fileID: 741136048}
+  Player2Prefab: {fileID: 2575522764260020845, guid: d245d6b6cee4d0240b990ab1fc2ac6bc, type: 3}
+  XPrefabP2: -7
+  YPrefabP2: -2.3
+--- !u!4 &1627568562
+Transform:
+>>>>>>> 6909a973b3d7dc94c896074dc83ce1e4296600fb
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -2858,7 +2868,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 954326271
-  m_SortingLayer: 5
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.03333336, y: 0.03333336, z: 0}
